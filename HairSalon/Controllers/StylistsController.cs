@@ -1,12 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.Models;
+using HairSalon.Models;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace HairSalon.Controllers
 {
-  public class StylistsControllers : Controllers
+  public class StylistsControllers : Controller
   {
     private readonly HairSalonContext _db;
 

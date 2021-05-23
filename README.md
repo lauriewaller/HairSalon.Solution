@@ -21,6 +21,8 @@ This application allows the user to track stylists and clients at their salon. U
 
 ## Database Structure 
 
+![image](https://user-images.githubusercontent.com/57472714/119250286-d7ac3900-bb53-11eb-9c3a-97cee44a7f67.png)
+
 ## Prerequesites
 * [.Net Framework](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-2.2.106-macos-x64-installer)
 

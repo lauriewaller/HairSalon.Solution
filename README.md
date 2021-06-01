@@ -18,7 +18,7 @@
 * HTML5
 
 ## Description
-This application implements a one-to-many relationahip and allows the user to track stylists and clients at their salon. Users can add new stylists and clients, view all stylists and clients, view details for a stylist, and view clients who belong to a specific client. 
+This application implements a one-to-many relationship and allows the user to track stylists and clients at their salon. Users can add new stylists and clients, view all stylists and clients, view details for a stylist, and view clients who belong to a specific client. 
 
 ## Database Structure 
 

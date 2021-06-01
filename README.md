@@ -11,6 +11,7 @@
 * ASP.NET Razor
 * Entity Framework Core
 * .NET 5
+* LINQ
 * MySQL 
 * MySQL Workbench
 * CSS

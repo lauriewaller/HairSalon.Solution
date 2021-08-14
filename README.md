@@ -1,6 +1,6 @@
 # Hair Salon Application
 
-#### An application for a user to track a salon's stylists and clients
+#### An application that allows a user to track a salon's stylists and clients
 
 #### By **Laurie Waller**
 
